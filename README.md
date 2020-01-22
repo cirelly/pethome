@@ -1,2 +1,3 @@
 # pethome
-# Website to adopt pets
+Website to adopt pet
+Developed in Python with Django
